@@ -1,14 +1,14 @@
 # Aplicativo contador de histórias
 
 <p align="center">
-  <img src="https://github.com/PRO81-89_App-Contador-Historias/blob/main/assets/logo.png" alt="logo do aplicativo com um livro e uma lua">
+  <img src="https://github.com/profa-janaina/PRO81-89_App-Contador-Historias/blob/main/assets/logo.png" alt="logo do aplicativo com um livro e uma lua">
 </p>
 
 Aplicativo contador de histórias. Armazene a suas histórias favoritas. Use o recurso narração para ouvir a sua história.
 
 ### Captura de telas
 <p align="center">
-  <img src="https://github.com/PRO81-89_App-Contador-Historias/blob/main/assets/screen.png" alt="captura de algumas telas do app">
+  <img src="https://github.com/profa-janaina/PRO81-89_App-Contador-Historias/blob/main/assets/screen.png" alt="captura de algumas telas do app">
 </p>
 
 ### Tecnologias Utilizadas
